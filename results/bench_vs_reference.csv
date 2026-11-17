@@ -1,0 +1,3 @@
+case,days,names,java_warm_ms,numpy_ms,speedup,max_abs_diff_net
+real S&P 500 panel,4233,503,21.78,334.4,15.35,4.961e-14
+synthetic 12y x 3000,3024,3000,172.8,736.5,4.261,4.977e-15

@@ -1,0 +1,3 @@
+T,N,median_ms,min_ms,max_ms,mcells_per_s,sweep_sims,threads,sweep_s,sims_per_s
+3024,3000,156.64,155.04,167.99,57.92,48,12,1.065,45.05
+4233,503,25.67,24.85,26.30,82.96,48,12,0.217,221.12
